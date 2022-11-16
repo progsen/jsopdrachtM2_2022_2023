@@ -26,8 +26,12 @@ Nu gaan we live server installeren
 
 1. open je extensions (linker menu 4 blokjes)
 2. zoek op live server
-3. installeer deze: ![live server](img/liveserver.png)
+3. installeer deze: 
 
+4. gebruik de knop `go live` om de server te starten
+ ![golive.PNG](img/golive.PNG)
+5. dat start de server en laat jouw index.html zien
+ 
 ## variabel opdracht:
 
 We hebben nu een javascript begin
