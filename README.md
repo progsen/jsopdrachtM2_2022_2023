@@ -3,7 +3,7 @@
 ## Mappen aanmaken
 
 1. Ga naar waar jouw school werk staat
-2. Noem de map/directory “M2 prog js”
+2. Maak een map/directory met naam `M2 prog js`
 3. Open deze folder in visual studio code
 
 
