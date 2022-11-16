@@ -20,8 +20,10 @@
 
 
 2. in `app.js` zet het volgende:
- ![appjs.PNG](img/appjs.PNG)
-let even op waar je jouw code straks moet zetten!
+
+![appjs.PNG](img/appjs.PNG)
+
+3. Lees/bedenk waar je jouw code straks moet zetten!
 
 ## live server installeren
 
