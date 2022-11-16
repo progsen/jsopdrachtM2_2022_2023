@@ -48,22 +48,52 @@ dat doen we door `let g = canvas.getContext("2d");` in onze code te zetten
 3. controlleer of je nu een zwart vierkant op je webpagina hebt
 
 
-## paden tekenen:
+## lijnen tekenen:
 
 plaatjes van `sjo`
 
+* je start een Path met `beginPath()`
+* dan beweeg naar het begin punt (`20,20 in het plaatje`) met `moveTo()`.
+* dan geef je aan dat je een lijn naar een punt wil (`300,300 in het plaatje`) met `lineTo(x,y)`
+* sluit het pad met `closePath()` en teken de lijn met `stroke`
+
 ![](img/l2/pathline.PNG)
+
 1. maak deze code na en kijk of je een lijn krijgt:
 
 
 ![](img/l2/linecode.PNG)
 
+## vormen tekenen:
+
+vormen gaan op dezelfde manier, alleen gebruik je niet `stroke` maar `fill`
+
+![](img/l2/fillshape.PNG)
+
+1. maak deze code na:
+![](img/l2/fillshapecode.PNG)
+
+
+## Huisje tekenen
+
+Gebruik nu wat je hebt geprobeerd en geleerd
+
+
+1. maak een huis
+2. begin met deze, maar `let op` is je `canvas` groot genoeg?:
+
+![](img/l2/maakeenhuis.PNG)
+
+3. dan vul het aan met je eigen ideeen:
+
+![](img/l2/goedexcellent.PNG)
 
 ### handige canvas links
 * voor als je vast zit
 * als je wil weten HOE je iets moet doen
 
-[canvas javascript reference](https://www.w3schools.com/jsref/dom_obj_canvas.asp)
-[canvas tag reference](https://www.w3schools.com/tags/tag_canvas.asp)
-[canvas](https://www.w3schools.com/html/html5_canvas.asp)
-[canvas intro](https://www.w3schools.com/graphics/canvas_intro.asp)
+
+* [canvas javascript reference](https://www.w3schools.com/jsref/dom_obj_canvas.asp)
+* [canvas tag reference](https://www.w3schools.com/tags/tag_canvas.asp)
+* [canvas](https://www.w3schools.com/html/html5_canvas.asp)
+* [canvas intro](https://www.w3schools.com/graphics/canvas_intro.asp)
