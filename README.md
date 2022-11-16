@@ -42,13 +42,13 @@ waarde kan een string zijn `"hello"` of andere dingen `true`, `99` etc
 
 1. Hier maken we variabelen aan in de runApplication function:
 
-*appNaam (string)
-*versienummer (0.9 double)
-*versiedatum (Date)
-*autheur (string)
-*copyright (string)
-*distributeur (string)
-*darkmode (bool)
+* appNaam (string)
+* versienummer (0.9 double)
+* versiedatum (Date)
+* autheur (string)
+* copyright (string)
+* distributeur (string)
+* darkmode (bool)
 
 Deze doe je even zelf!
 
