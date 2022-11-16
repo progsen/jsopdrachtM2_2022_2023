@@ -12,3 +12,8 @@
 
 1. maak nu een file aan: `index.html`
 2. maak nog een file aan: `app.js`
+
+## code in files zetten
+![live server](img/liveserver.png)
+
+## live server installeren
