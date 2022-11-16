@@ -54,7 +54,7 @@ plaatjes van `sjo`
 
 * je start een Path met `beginPath()`
 * dan beweeg naar het begin punt (`20,20 in het plaatje`) met `moveTo()`.
-* dan geef je aan dat je een lijn naar een punt wil (`300,300 in het plaatje`) met `lineTo(x,y)`
+* dan geef je aan dat je een lijn naar een punt wil (`300,300 en 300,580 in het plaatje`) met `lineTo(x,y)`
 * sluit het pad met `closePath()` en teken de lijn met `stroke`
 
 ![](img/l2/pathline.PNG)
@@ -67,10 +67,15 @@ plaatjes van `sjo`
 ## vormen tekenen:
 
 vormen gaan op dezelfde manier, alleen gebruik je niet `stroke` maar `fill`
+* je start een Path met `beginPath()`
+* dan beweeg naar het begin punt (`20,20 in het plaatje`) met `moveTo()`.
+* dan maak je lijnen van de vorm per punt wil (`300,300 in het plaatje`) met `lineTo(x,y)`
+* sluit het pad met `closePath()` en teken de lijn met `fill`
 
 ![](img/l2/fillshape.PNG)
 
 1. maak deze code na:
+
 ![](img/l2/fillshapecode.PNG)
 
 
