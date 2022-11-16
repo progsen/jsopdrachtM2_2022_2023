@@ -38,3 +38,32 @@ Uit de vorige les!
 6. `console.log(canvas)` en kijk wat je ziet in de developer tools
 
 
+##  canvas gebruiken:
+
+Om te kunnen tekenen moeten we eerst een teken object vragen
+dat doen we door `let g = canvas.getContext("2d");` in onze code te zetten
+
+1. zet onder je `let canvas` de code van `getContext`
+2. nu kunnen we tekenen: `g.fillRect(0,0,10,10);`
+3. controlleer of je nu een zwart vierkant op je webpagina hebt
+
+
+## paden tekenen:
+
+plaatjes van `sjo`
+
+![](img/l2/pathline.PNG)
+1. maak deze code na en kijk of je een lijn krijgt:
+
+
+![](img/l2/linecode.PNG)
+
+
+### handige canvas links
+* voor als je vast zit
+* als je wil weten HOE je iets moet doen
+
+[canvas javascript reference](https://www.w3schools.com/jsref/dom_obj_canvas.asp)
+[canvas tag reference](https://www.w3schools.com/tags/tag_canvas.asp)
+[canvas](https://www.w3schools.com/html/html5_canvas.asp)
+[canvas intro](https://www.w3schools.com/graphics/canvas_intro.asp)
