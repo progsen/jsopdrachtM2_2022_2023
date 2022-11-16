@@ -36,6 +36,7 @@ Nu gaan we live server installeren
 4. gebruik de knop `go live` om de server te starten
 
 ![golive.PNG](img/golive.PNG)
+
 5. dat start de server en laat jouw index.html zien
  
 ## variabel opdracht:
