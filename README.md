@@ -15,9 +15,12 @@
 
 ## basis code in files zetten
 
-type de code over van de gif:
+1. in `index.html` zet het volgende:
+ ![indexhtml.PNG](img/indexhtml.PNG)
 
 
+2. in `app.js` zet het volgende:
+ ![appjs.PNG](img/appjs.PNG)
 let even op waar je jouw code straks moet zetten!
 
 ## live server installeren
@@ -40,14 +43,15 @@ we gaan variabelen maken dat deed je zo
 `let eenVariableNaam = waarde`
 waarde kan een string zijn `"hello"` of andere dingen `true`, `99` etc
 
-1. Hier maken we variabelen aan in de runApplication function:
-*appNaam (string)
-*versienummer (0.9 double)
-*versiedatum (Date)
-*autheur (string)
-*copyright (string)
-*distributeur (string)
-*darkmode (bool)
+1. Maak deze variabelen aan in de runApplication function:
+
+* appNaam (string)
+* versienummer (0.9 double)
+* versiedatum (Date)
+* autheur (string)
+* copyright (string)
+* distributeur (string)
+* darkmode (bool)
 
 Deze doe je even zelf!
 
