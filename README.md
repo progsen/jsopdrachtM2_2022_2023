@@ -40,7 +40,7 @@ we gaan variabelen maken dat deed je zo
 `let eenVariableNaam = waarde`
 waarde kan een string zijn `"hello"` of andere dingen `true`, `99` etc
 
-1. Hier maken we variabelen aan in de runApplication function:
+1. Maak deze variabelen aan in de runApplication function:
 
 * appNaam (string)
 * versienummer (0.9 double)
