@@ -89,8 +89,7 @@ Gebruik nu wat je hebt geprobeerd en geleerd
 ![](img/l2/goedexcellent.PNG)
 
 ### handige canvas links
-* voor als je vast zit
-* als je wil weten HOE je iets moet doen
+Deze zijn voor als je vast zit of als je wil weten HOE je iets moet doen
 
 
 * [canvas javascript reference](https://www.w3schools.com/jsref/dom_obj_canvas.asp)
