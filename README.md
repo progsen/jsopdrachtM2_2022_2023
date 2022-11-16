@@ -15,9 +15,12 @@
 
 ## basis code in files zetten
 
-type de code over van de gif:
+1. in `index.html` zet het volgende:
+ ![indexhtml.PNG](img/indexhtml.PNG)
 
 
+2. in `app.js` zet het volgende:
+ ![appjs.PNG](img/appjs.PNG)
 let even op waar je jouw code straks moet zetten!
 
 ## live server installeren
