@@ -45,7 +45,6 @@ Uit de vorige les!
 
 ##  if else gebruiken:
 
-6. pas de `backgroundcolor` aan van de van de title en aan (zie voorbeeld hieronder)
 
 Met het random getal gaan we de achtergrond kleur van de title aanpassen.
 de random geeft een getal van `0.0-0.999999...` terug.
@@ -59,7 +58,9 @@ wij delen deze in 4 gebieden op:
 1. gebruik de `if, else if en else` om te kijken of `randomGetal` in 1 van deze gebieden zit
 2. per gebied geef je een andere achtergrond kleur aan de title
 
+![](img/ifelse/bgcolor.PNG)
 
+TIP zoek zelf even op het internet hoe je kleuren in html zet
 
 ## klaar?
 
