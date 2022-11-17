@@ -38,9 +38,11 @@ Nu gaan we live server installeren
 2. zoek op live server
 3. installeer deze: 
 
+![](img/liveserver.png)
+
 4. gebruik de knop `go live` om de server te starten
 
-![golive.PNG](img/golive.PNG)
+![](img/golive.PNG)
 
 5. dat start de server en laat jouw index.html zien
  
