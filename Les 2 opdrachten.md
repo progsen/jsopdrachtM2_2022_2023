@@ -93,6 +93,10 @@ Gebruik nu wat je hebt geprobeerd en geleerd
 
 ![](img/l2/goedexcellent.PNG)
 
+## repository update
+
+1. commit & push je werk naar github
+
 ### handige canvas links
 Deze zijn voor als je vast zit of als je wil weten HOE je iets moet doen
 
