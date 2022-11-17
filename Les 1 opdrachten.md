@@ -1,12 +1,16 @@
 # Les 1 opdrachten
 
+## git aanmaken
+
+1. ga naar jouw github
+2. maak een repository met naam `M2 prog js`
+
 ## Mappen aanmaken
 
 1. Ga naar waar jouw school werk staat
-2. Maak een map/directory met naam `M2 prog js`
-3. Open deze folder in visual studio code
-
-
+2. clone jouw git repository (`M2 prog js`) naar de school map folder stap 1
+3. git clone maakt nu een `M2 prog js` folder aan op jouw laptop
+4. Open deze `M2 prog js` folder in visual studio code
 
 ## Javascript ontwikkel omgeving opzetten
 
