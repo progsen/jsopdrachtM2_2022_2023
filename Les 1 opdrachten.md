@@ -8,9 +8,10 @@
 ## Mappen aanmaken
 
 1. Ga naar waar jouw school werk staat
-2. clone jouw git repository (`M2 prog js`) naar de school map folder stap 1
-3. git clone maakt nu een `M2 prog js` folder aan op jouw laptop
-4. Open deze `M2 prog js` folder in visual studio code
+2. clone jouw git repository (`M2 prog js`) naar de school map directory stap 1
+3. git clone maakt nu een `M2 prog js` directory aan op jouw laptop
+4. maak nu een `les1` directory aan in `M2 prog js`
+5. Open deze `les1` directory in visual studio code
 
 ## Javascript ontwikkel omgeving opzetten
 
