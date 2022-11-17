@@ -73,3 +73,8 @@ Nu gaan we console.log(de_naam_van_de_variable) gebruiken:
 1. print met `console.log(de_naam_van_de_variable)` alle variabelen van de vorige opdracht
 2. open je developer tools van je browser
 3. check of alles in de debug console staat!
+
+
+## klaar?
+
+1. commit & push je werk naar github
