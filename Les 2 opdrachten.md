@@ -89,10 +89,13 @@ Gebruik nu wat je hebt geprobeerd en geleerd
 
 ![](img/l2/maakeenhuis.PNG)
 
-3. dan vul het aan met je eigen ideeen:
+3. maak deze nu kleiner zodat deze in 100 bij 100 pixels past
+
+4. dan vul dit kleinere huisje het aan met je eigen ideeen:
 
 ![](img/l2/goedexcellent.PNG)
 
+5. teken een raam want die heb je later nodig
 
 ## klaar?
 
