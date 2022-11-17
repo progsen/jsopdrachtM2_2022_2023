@@ -1,0 +1,66 @@
+# Les 1 opdrachten
+
+## Mappen aanmaken
+
+1. Ga naar waar jouw school werk staat
+2. Ga naar de map/directory `M2 prog js`”`
+Uit de vorige les!
+3. Maak een map `ifelse`”`
+4. Open de `ifelse`”` folder in visual studio code
+
+
+## files opzetten
+
+1. Kopieer files van de les1 naar 
+ `ifelse`
+
+ * `index.html`
+ * `app.js`
+
+2. open de directory `ifelse` in visual studio code
+
+## html aanpassen
+1. open index.html
+2. zet een de volgende tags in je body:
+
+![](img/ifelse/ifelsehtml.PNG)
+
+3. bekijk de tags, bedenk je op welke manieren je deze tags kan selecteren
+4. schrijf dat met commentaar `//dit is code commentaar voor javascript` in je app.js
+
+## javascript 
+
+1. open app.js
+2. maak een `variable` met de naam `title` (tip: `let eenVariableNaam = ...;`)
+3. gebruik de `document.getElementById("...")` om voor deze variabel de tag op te halen
+4. TIP kijk goed naar welke `id` je op de `...` moet invullen!
+5. we gaan nu een random introduceren:
+
+![](img/ifelse/randomGetal.PNG)
+
+* [zie ook w3schools random](https://www.w3schools.com/JS/js_random.asp)
+
+
+
+
+##  if else gebruiken:
+
+6. pas de `backgroundcolor` aan van de van de title en aan (zie voorbeeld hieronder)
+
+Met het random getal gaan we de achtergrond kleur van de title aanpassen.
+de random geeft een getal van `0.0-0.999999...` terug.
+wij delen deze in 4 gebieden op:
+* precies 0
+* kleiner dan 0.2
+* van 0.2 tot en met 0.6
+* groter dan 0.6
+
+
+1. gebruik de `if, else if en else` om te kijken of `randomGetal` in 1 van deze gebieden zit
+2. per gebied geef je een andere achtergrond kleur aan de title
+
+
+
+## klaar?
+
+1. commit & push je werk naar github
