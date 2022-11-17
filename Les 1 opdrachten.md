@@ -21,8 +21,8 @@
 ## basis code in files zetten
 
 1. in `index.html` zet het volgende:
- ![indexhtml.PNG](img/indexhtml.PNG)
 
+ ![indexhtml.PNG](img/indexhtml.PNG)
 
 2. in `app.js` zet het volgende:
 
