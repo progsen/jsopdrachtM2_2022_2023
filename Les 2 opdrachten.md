@@ -99,7 +99,7 @@ Gebruik nu wat je hebt geprobeerd en geleerd
 1. commit & push je werk naar github
 
 
-### handige canvas links
+## handige canvas links
 Deze zijn voor als je vast zit of als je wil weten HOE je iets moet doen
 
 
