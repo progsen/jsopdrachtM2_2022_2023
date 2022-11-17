@@ -62,6 +62,15 @@ wij delen deze in 4 gebieden op:
 
 TIP zoek zelf even op het internet hoe je kleuren in html zet
 
+## Is er iemand thuis?
+
+We gaat nu je huisje aanpassen
+1. zorg dat je een aantal ramen hebt.
+2. gebruik `random` om en getal te maken van 0 tot 1
+3. test met een `if else` of je het raam met licht aan of uit moet tekenen
+
+![](img/ifelse/lichtaanuit.PNG)
+
 ## klaar?
 
 1. commit & push je werk naar github
