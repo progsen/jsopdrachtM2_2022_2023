@@ -76,7 +76,13 @@ Een huis moet ook een kerstboom hebben in deze tijd
 * Maak vooral iets wat je zelf leuk vind om te tekenen.
 
 
-* [circle tekenen](https://www.w3schools.com/html/html5_canvas.asp)
+Voor de kerstball kijk hier voor hoe je dat kan doen:
+
+![](img/func/drawcircle.jpg)
+
+of in de documentatie:
+
+[circle tekenen](https://www.w3schools.com/html/html5_canvas.asp)
 
 
 ## Extra!
