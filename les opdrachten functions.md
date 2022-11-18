@@ -58,6 +58,22 @@ Die moeten we als argument doorgeven!
 3. geef de `function` een argument `g` (zonder let!)
 4. roep de `function` aan in je `runApplication` (vergeet `this.` niet!)
 
+## verplekken
+
+Je kan je huis nu elke keer op dezelfde plek tekenen
+dat is niet super handig
+Dat gaan we aanpassen!
+
+1. geef je `tekenHuis function` 2 extra `argumenten`: x & y
+2. gebruik die x & y in je `g.draw...` stukken in je code
+3. roep je `tekenHuis function` nu 2 keer aan met verschillende x & y
+
+voorbeeld:
+hier is de lijn altijd op 1 plek
+![](img/func/linehard.PNG)
+
+hier niet, als je de x, y veranderd verplaatst de lijn.
+![](img/func/lineflex.PNG)
 
 ## boompje?
 
