@@ -70,9 +70,11 @@ Dat gaan we aanpassen!
 
 voorbeeld:
 hier is de lijn altijd op 1 plek
+
 ![](img/func/linehard.PNG)
 
 hier niet, als je de x, y veranderd verplaatst de lijn.
+
 ![](img/func/lineflex.PNG)
 
 ## boompje?
