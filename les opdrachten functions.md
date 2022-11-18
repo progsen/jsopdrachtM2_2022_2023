@@ -78,6 +78,10 @@ Een huis moet ook een kerstboom hebben in deze tijd
 
 Voor de kerstball kijk hier voor hoe je dat kan doen:
 
+![](img/func/drawcirclecode.PNG)
+
+Hier zie je het resultaat en hoe het werkt:
+
 ![](img/func/drawcircle.PNG)
 
 of in de documentatie:
