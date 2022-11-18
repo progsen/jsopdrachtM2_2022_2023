@@ -1,4 +1,4 @@
-# Opdrachten If Else
+# Opdrachten Functions
 
 ## Mappen aanmaken
 
