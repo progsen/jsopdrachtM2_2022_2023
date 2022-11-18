@@ -82,7 +82,7 @@ Voor de kerstball kijk hier voor hoe je dat kan doen:
 
 Hier zie je het resultaat en hoe het werkt:
 
-![](img/func/drawcircle.PNG)
+![](img/func/drawcircleresult.PNG)
 
 of in de documentatie:
 
