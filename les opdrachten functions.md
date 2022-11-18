@@ -19,53 +19,71 @@ Uit de vorige les!
 
 2. open de directory `functions` in visual studio code
 
-## html 
-
-blijft hetzelfde
-
 ## javascript 
 
 1. open app.js
-2. maak een `variable` met de naam `title` (tip: `let eenVariableNaam = ...;`)
-3. gebruik de `document.getElementById("...")` om voor deze variabel de tag op te halen
-4. TIP kijk goed naar welke `id` je op de `...` moet invullen!
-5. we gaan nu een random introduceren:
+2. nu verschillende functions aan in je class:
 
-![](img/ifelse/randomGetal.PNG)
+* een function die "MARIO!!" naar de console print `(geen argumenten geen return)`
+* een function die "BWAHAHA!!!" returned `(geen argumenten)`
+* een function die 2 getallen bij elkaar optelt en returned `(2 getallen als argumenten)`
+* verzin er zelf nog 1 bij
 
-* [zie ook w3schools random](https://www.w3schools.com/JS/js_random.asp)
+3. roep nu alle functions aan in `runApplication`
+4. voor de `return` functions vang het resulaat in een `variabel` en `console.log` die `variabel`
+5. controller je resultaat in de developer console
 
-
-
-
-##  if else gebruiken:
-
-
-Met het random getal gaan we de achtergrond kleur van de title aanpassen.
-de random geeft een getal van `0.0-0.999999...` terug.
-wij delen deze in 4 gebieden op:
-* precies 0
-* kleiner dan 0.2
-* van 0.2 tot en met 0.6
-* groter dan 0.6
+TIP: vergeet `this.` niet!
 
 
-1. gebruik de `if, else if en else` om te kijken of `randomGetal` in 1 van deze gebieden zit
-2. per gebied geef je een andere achtergrond kleur aan de title
+![](img/func/funcresult.PNG)
 
-![](img/ifelse/bgcolor.PNG)
 
-TIP zoek zelf even op het internet hoe je kleuren in html zet
+## huisje
 
-## Is er iemand thuis?
+1. Ga naar waar jouw school werk staat
+2. Ga naar de map/directory `M2 prog js`
+3. Open de `canvashuis` folder in visual studio code
 
-We gaat nu je huisje aanpassen
-1. zorg dat je een aantal ramen hebt.
-2. gebruik `random` om en getal te maken van 0 tot 1
-3. test met een `if else` of je het raam met licht aan of uit moet tekenen
+We gaan nu onze huis teken code in een `aparte function` zetten
 
-![](img/ifelse/lichtaanuit.PNG)
+![](img/func/canvasg.PNG)
+
+Zie je de `let g` daar? die bestaat `alleen` in `runApplication`
+
+Die moeten we als argument doorgeven!
+
+1. maak een nieuwe `function` met de naam `tekenHuis` in je `App` class
+2. verhuis (`knip plak`) je huis teken code naar deze nieuwe `function`
+3. geef de `function` een argument `g` (zonder let!)
+4. roep de `function` aan in je `runApplication` (vergeet `this.` niet!)
+
+
+## boompje?
+
+Een huis moet ook een kerstboom hebben in deze tijd
+
+![](img/func/xmastree.jpg)
+
+1. maak een nieuwe `function` met de naam `tekenKerstBoom` in je `App` class
+2. geef de `function` een argument `g` (zonder let!)
+3. roep de `function` aan in je `runApplication` (vergeet `this.` niet!)
+
+4. vul de function in zodat deze een boom gaat teken:
+
+* De boom heeft minimaal een stam, naalden, 10 ballen of sterren en een piek.
+* Je mag de boom uiteraard aanvullen met allerlei extra’s zoals slingers, kaarsjes , zuurstokken , kado’s, kinderen , katten etc…
+* Maak vooral iets wat je zelf leuk vind om te tekenen.
+
+
+* [circle tekenen](https://www.w3schools.com/html/html5_canvas.asp)
+
+
+## Extra!
+
+Maak de `function` voor de boom nu eens zo dat je de `locatie (x,y)` en `aantal kerstballen` kan doorgeven als `argument`. maak het zo dat de kerstballen random in de bal gehangen worden. 
 
 ## klaar?
+
 
 1. commit & push je werk naar github
