@@ -5,28 +5,23 @@
 1. Ga naar waar jouw school werk staat
 2. Ga naar de map/directory `M2 prog js`
 Uit de vorige les!
-3. Maak een map `ifelse`
-4. Open de `ifelse` folder in visual studio code
+3. Maak een map `functions`
+4. Open de `functions` folder in visual studio code
 
 
 ## files opzetten
 
 1. Kopieer files van de les1 naar 
- `ifelse`
+ `functions`
 
  * `index.html`
  * `app.js`
 
-2. open de directory `ifelse` in visual studio code
+2. open de directory `functions` in visual studio code
 
-## html aanpassen
-1. open index.html
-2. zet een de volgende tags in je body:
+## html 
 
-![](img/ifelse/ifelsehtml.PNG)
-
-3. bekijk de tags, bedenk je op welke manieren je deze tags kan selecteren
-4. schrijf dat met commentaar `//dit is code commentaar voor javascript` in je app.js
+blijft hetzelfde
 
 ## javascript 
 

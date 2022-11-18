@@ -3,10 +3,10 @@
 ## Mappen aanmaken
 
 1. Ga naar waar jouw school werk staat
-2. Ga naar de map/directory `M2 prog js`”`
+2. Ga naar de map/directory `M2 prog js`
 Uit de vorige les!
-3. Maak een map `canvashuis`”`
-4. Open de `canvashuis`”` folder in visual studio code
+3. Maak een map `canvashuis`
+4. Open de `canvashuis` folder in visual studio code
 
 
 ## files opzetten
