@@ -55,7 +55,7 @@ Die moeten we als argument doorgeven!
 
 1. maak een nieuwe `function` met de naam `tekenHuis` in je `App` class
 2. verhuis (`knip plak`) je huis teken code naar deze nieuwe `function`
-3. geef de `function` een argument `g` (zonder let!)
+3. geef de `function` 1 argument `g` (zonder let!)
 4. roep de `function` aan in je `runApplication` (vergeet `this.` niet!)
 
 ## verplekken
@@ -84,11 +84,12 @@ Een huis moet ook een kerstboom hebben in deze tijd
 ![](img/func/xmastree.jpg)
 
 1. maak een nieuwe `function` met de naam `tekenKerstBoom` in je `App` class
-2. geef de `function` een argument `g` (zonder let!)
+2. geef de `function` 3 argumenten `g`, `x` en `y`
 3. roep de `function` aan in je `runApplication` (vergeet `this.` niet!)
 
 4. vul de function in zodat deze een boom gaat teken:
 
+* De boom heeft geen vaste plek, gebruik x en y bij het tekenen 
 * De boom heeft minimaal een stam, naalden, 10 ballen of sterren en een piek.
 * Je mag de boom uiteraard aanvullen met allerlei extra’s zoals slingers, kaarsjes , zuurstokken , kado’s, kinderen , katten etc…
 * Maak vooral iets wat je zelf leuk vind om te tekenen.
