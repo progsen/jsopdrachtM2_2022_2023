@@ -112,6 +112,8 @@ of in de documentatie:
 
 Verander de `function` voor de boom zo dat je het `aantal kerstballen` kan doorgeven als `argument`. maak het zo dat de kerstballen random in de boom gehangen worden. 
 
+Probeer ook eens de kleuren random te doen.
+s
 ## klaar?
 
 
