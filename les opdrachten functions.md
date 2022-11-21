@@ -110,7 +110,7 @@ of in de documentatie:
 
 ## Extra!
 
-Maak de `function` voor de boom nu eens zo dat je het `aantal kerstballen` kan doorgeven als `argument`. maak het zo dat de kerstballen random in de bal gehangen worden. 
+Verander de `function` voor de boom zo dat je het `aantal kerstballen` kan doorgeven als `argument`. maak het zo dat de kerstballen random in de boom gehangen worden. 
 
 ## klaar?
 
