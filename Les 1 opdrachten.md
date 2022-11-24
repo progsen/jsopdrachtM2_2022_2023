@@ -45,6 +45,7 @@ Nu gaan we live server installeren
 ![](img/golive.PNG)
 
 5. dat start de server en laat jouw index.html zien
+6. kijk nu eens welke opties je ziet als je met `rechter muis` op de file in de `explorer` clicked
  
 ## variabel opdracht:
 
