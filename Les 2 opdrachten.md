@@ -25,6 +25,15 @@ Uit de vorige les!
 
 ![appjs.PNG](img/l2/canvastag.PNG)
 
+## javascript opruimen
+
+1. open app.js
+2. haal de variabelen weg die je voor les 1 gemaakt had
+3. check of je code er zo uitziet:
+
+![appjs.PNG](img/appjs.PNG)
+
+
 ## javascript 
 
 1. open app.js
