@@ -7,7 +7,7 @@
 
 ## Mappen aanmaken
 
-1. Ga naar waar jouw school werk staat
+1. Ga naar de map waar jouw school werk in staat
 2. clone jouw git repository (`M2 prog js`) naar de school map directory stap 1
 3. git clone maakt nu een `M2 prog js` directory aan op jouw laptop
 4. maak nu een `les1` directory aan in `M2 prog js`
