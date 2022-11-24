@@ -58,7 +58,7 @@ waarde kan een string zijn `"hello"` of andere dingen `true`, `99` etc
 
 * appNaam (string)
 * versienummer (0.9 double)
-* versiedatum (Date)
+* versiedatum (string of voor extra uitdaging een Date)
 * autheur (string)
 * copyright (string)
 * distributeur (string)
