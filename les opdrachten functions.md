@@ -58,6 +58,7 @@ Die moeten we als argument doorgeven!
 3. geef de `function` 1 argument `g` (zonder let!)
 4. roep de `function` aan in je `runApplication` (vergeet `this.` niet!)
 
+
 ## verplekken
 
 Je kan je huis nu elke keer op dezelfde plek tekenen
@@ -76,6 +77,10 @@ hier is de lijn altijd op 1 plek
 hier niet, als je de x, y veranderd verplaatst de lijn.
 
 ![](img/func/lineflex.PNG)
+
+bv hier een stad met bomen & huizen in functies
+
+![](img/func/voorbeeld.PNG)
 
 ## boompje?
 
