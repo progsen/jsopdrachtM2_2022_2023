@@ -29,7 +29,11 @@ Uit de vorige les!
 * een function die 2 getallen bij elkaar optelt en returned `(2 getallen als argumenten)`
 * verzin er zelf nog 1 bij
 
-3. roep nu alle functions aan in `runApplication`
+Tip zie dit plaatje als voorbeeld waar `classFunction` een nieuwe function is
+![](img/func/examplefunc.PNG)
+Zet geen functions in functions
+
+3. roep nu elke functions aan in `runApplication`
 4. voor de `return` functions vang het resulaat in een `variabel` en `console.log` die `variabel`
 5. controller je resultaat in de developer console
 
