@@ -9,7 +9,7 @@ In beide mappen maak je de volgende bestanden aan.
  * `app.js`
 Maak voor de html paginas lege pagina's. Gebruik hiervoor de `!` shortcut.
 In beide `app.js` zet je het volgende:
-![appjs.PNG](img/appjs.PNG)
+![appjs.png](img/appjs.png)
 
 # Opdracht 1: Headers veranderen
 
@@ -21,7 +21,7 @@ Zet een stuk of 5 headers in jouw html bestand.
 
 ## Stap 2: Maak een array
 Een array is ook een datatype voor een variabele. Het is een lijst met allemaal waardes. Maak een array met jouw favoriete muziek artiesten. Bijvoorbeeld: 
-![array.PNG](img/l5/array.PNG)
+![array.png](img/l5/array.png)
 Maak jouw eigen array met favoriete artiesten.
 
 ## Stap 3: Print de array uit. 
@@ -33,13 +33,13 @@ We hebben alle headers nodig uit de HTML pagina om ze aan te kunnen pakken. We k
 
 ### A (de nette manier): Gebruik maken van (html) classes)
 In het HTML bestand voorzie alle h1’s van een class, bijvoorbeeld artiestNaam.
-![htmlclass.PNG](img/l5/htmlclass.PNG)
+![htmlclass.png](img/l5/htmlclass.png)
 Pak al deze headers met deze class naam.
-![indexhtml.PNG](img/l5/getbyclass.PNG)
+![indexhtml.png](img/l5/getbyclass.png)
 
 ### B (de minder nette manier): Pak gewoon alle h1s
 In het HTML bestand gaan we alle h1 tags pakken. Dit is geen nette manier van werken, want wanneer je meer content en headers hebt in jouw HTML bestand zal deze javascript code jouw HTML bestand slopen.
-![indexhtml.PNG](img/l5/getbytag.PNG)
+![indexhtml.png](img/l5/getbytag.png)
 
 De variabele genaamd headers bevat nu een array (lijst) van alle headers die we gaan aanpassen.
 
@@ -61,13 +61,13 @@ Headers[3].innerHTML = arr[3];
 ```
 
 Maar als we tientallen headers hebben wordt het een klein probleem. Als we honderden headers hebben wordt het een groot probleem. Daarom gaan we het door de arrays heen lopen automatiseren. Er zijn meerdere loops die we kunnen gebruiken, maar wij gaan een for loop gebruiken.
-![indexhtml.PNG](img/l5/forloop.PNG)
+![indexhtml.png](img/l5/forloop.png)
 
 
 # Opdracht 2: (Veel) Cirkels tekenen
 
 We gaan de canvas vullen met 200 cirkels op willekeurige plekken. Het eindresultaat komt er ongeveer zo uit te zien: 
-![indexhtml.PNG](img/l5/eindresultaat.PNG)
+![indexhtml.png](img/l5/eindresultaat.png)
 
 ## Stap 1: Teken cirkel functie
 Maak een functie genaamd `tekenCirkel`. Laat deze functie een cirkel tekenen wanneer deze aangeroepen wordt. Zorg ervoor dat je de X en de Y positie van de cirkel kan *meegeven als **argument***.
