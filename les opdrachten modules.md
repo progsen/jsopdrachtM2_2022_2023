@@ -43,7 +43,7 @@ we gaan nu ons `huis render code` de `boom render code` naar `aparte` files verh
 2. verhuis nu de `tekenHuis` en `tekenBoom` naar de renderers.
 
 3. nu werkt je app niet meer. Want we moeten importeren:
-``` import {WAT} from "./WELKEFILE.js"```
+* `import {WAT} from "./WELKEFILE.js"`
 4. importeer beide render classes
 5. gebruik nu je render classes waar je `tekenHuis` en `tekenBoom` gebruikt
 
