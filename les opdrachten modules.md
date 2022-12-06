@@ -60,6 +60,13 @@ we gaan BoomRenderer aanpassen:
 
 TIP! nu moet je dus beide classes (`BoomRenderer` en `BoomVariantRenderer`) importeren
 
+## random & for
+
+1. probeer nu met een `for loop` en een `Math.random()` de huizen en bomen te plaatsen
+
+Het resultaat als je wat meer laat tekenen:
+![](img/module/result.PNG)
+
 ## Extra:
 
 heb je nog meer dingen in je kerst dorp gezet? Bv een slee, kerstman of een sneeuwpop
