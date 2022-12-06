@@ -38,6 +38,8 @@ we gaan nu ons `huis render code` de `boom render code` naar `aparte` files verh
 * HuisRenderer.js, maak hierin een nieuwe class HuisRenderer
 * BoomRenderer.js, maak hierin een nieuwe class BoomRenderer
 
+![](img/module/files.PNG)
+
 2. verhuis nu de `tekenHuis` en `tekenBoom` naar de renderers.
 
 3. nu werkt je app niet meer. Want we moeten importeren:
