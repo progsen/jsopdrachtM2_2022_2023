@@ -19,24 +19,29 @@ Uit de vorige les!
 
 2. open de directory `modules` in visual studio code
 
+3. open app.js
+4. controlleer of je `functions` hebt gemaakt voor `tekenHuis` en `tekenBoom`. Zo nee? moet je die maken (zie de les opdrachten van `functions`)
+
+![](img/module/makefunc.PNG)
+wordt:
+![](img/module/makefunc2.PNG)
+
 ## javascript 
 
 
 we gaan nu ons `huis render code` de `boom render code` naar `aparte` files verhuizen
 
-1. open app.js
-2. controlleer of je `functions` hebt gemaakt voor `tekenHuis` en `tekenBoom`. Zo nee? moet je die maken (zie de les opdrachten van `functions`)
-3. maak met visual studio code 2 nieuwe files aan:
+1. maak met visual studio code 2 nieuwe files aan:
 
 * HuisRenderer.js, maak hierin een nieuwe class HuisRenderer
 * BoomRenderer.js, maak hierin een nieuwe class BoomRenderer
 
-4. verhuis nu de `tekenHuis` en `tekenBoom` naar de renderers.
+2. verhuis nu de `tekenHuis` en `tekenBoom` naar de renderers.
 
-5. nu werkt je app niet meer. Want we moeten importeren:
+3. nu werkt je app niet meer. Want we moeten importeren:
 * import {WAT} from "./WELKEFILE.js"
-6. importeer beide render classes
-7. gebruik nu je render classes waar je `tekenHuis` en `tekenBoom` gebruikt
+4. importeer beide render classes
+5. gebruik nu je render classes waar je `tekenHuis` en `tekenBoom` gebruikt
 
 TIP! vergeet niet een `variable` te maken en de `new App()` constructie te gebruiken bv
 `let huisRenderer = new HuisRenderer();`
