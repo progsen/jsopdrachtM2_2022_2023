@@ -32,7 +32,7 @@ Geef de button een event wanneer er op geklikt wordt.
 * Print `Hello world` uit in de console wanneer er op de knop gedrukt wordt.
 
 ## Stap 3: Content toevoegen
-Wanneer er op de knop gedrukt wordt, wordt er een nieuwe paragraaf met tekst aangemaakt. Maak gebruik van [deze methode om in javascript HTML inhoud te maken](https://www.w3schools.com/js/js_htmldom_nodes.asp)
+Wanneer er op de knop gedrukt wordt, wordt er een nieuwe paragraaf met tekst aangemaakt. Gebruik eventueel Lorem Ipsum. Maak gebruik van [deze methode om in javascript HTML inhoud te maken](https://www.w3schools.com/js/js_htmldom_nodes.asp)
 
 ## Extra: Knoppen
 In plaats van een stuk tekst toe te voegen, voeg een knop toe. Wanneer je op de knop drukt, komt er een nieuwe knop.

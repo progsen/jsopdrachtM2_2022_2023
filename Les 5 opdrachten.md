@@ -9,7 +9,7 @@ In beide mappen maak je de volgende bestanden aan.
  * `app.js`
 Maak voor de html paginas lege pagina's. Gebruik hiervoor de `!` shortcut.
 In beide `app.js` zet je het volgende:
-![appjs.png](img/appjs.png)
+![appjs.png](img/appjs.PNG)
 
 # Opdracht 1: Headers veranderen
 
