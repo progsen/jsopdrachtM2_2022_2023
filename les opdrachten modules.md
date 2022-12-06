@@ -65,7 +65,7 @@ TIP! nu moet je dus beide classes (`BoomRenderer` en `BoomVariantRenderer`) impo
 1. probeer nu met een `for loop` en een `Math.random()` de huizen en bomen te plaatsen
 
 Het resultaat als je wat meer laat tekenen:
-![](img/module/result.PNG)
+![](img/module/resultaat.PNG)
 
 ## Extra:
 
