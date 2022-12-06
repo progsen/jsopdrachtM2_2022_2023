@@ -41,6 +41,16 @@ we gaan nu ons `huis render code` de `boom render code` naar `aparte` files verh
 TIP! vergeet niet een `variable` te maken en de `new App()` constructie te gebruiken bv
 `let huisRenderer = new HuisRenderer();`
 
+## andere bomen
+
+we gaan BoomRenderer aanpassen:
+1. maak in `BoomRenderer.js` een nieuwe `class` aan en noem deze `BoomVariantRenderer`
+2. maak in `BoomVariantRenderer` een function `tekenBoom` 
+3. in `tekenBoom` laat je een andere boom tekenen (bijvoorbeeld een vierkante)
+4. gebruik nu in je `App.js` ook `BoomVariantRenderer` om nog een boom te tekenen (deze ziet er dus anders uit)
+
+TIP! nu moet je dus beide classes (`BoomRenderer` en `BoomVariantRenderer`) importeren
+
 ## Extra:
 
 heb je nog meer dingen in je kerst dorp gezet? Bv een slee, kerstman of een sneeuwpop
