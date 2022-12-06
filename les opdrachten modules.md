@@ -23,7 +23,9 @@ Uit de vorige les!
 4. controlleer of je `functions` hebt gemaakt voor `tekenHuis` en `tekenBoom`. Zo nee? moet je die maken (zie de les opdrachten van `functions`)
 
 ![](img/module/makefunc.PNG)
+
 wordt:
+
 ![](img/module/makefunc2.PNG)
 
 ## javascript 
