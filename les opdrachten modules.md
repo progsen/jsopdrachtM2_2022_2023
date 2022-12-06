@@ -54,8 +54,8 @@ TIP! nu moet je dus beide classes (`BoomRenderer` en `BoomVariantRenderer`) impo
 ## Extra:
 
 heb je nog meer dingen in je kerst dorp gezet? Bv een slee, kerstman of een sneeuwpop
-maak daar ook renderers voor!
-
+- maak daar ook renderers voor!
+- Zijn er nog andere dingen waarvoor je classes in aparte files kan maken? probeer het!
 ## klaar?
 
 1. commit & push je werk naar github
