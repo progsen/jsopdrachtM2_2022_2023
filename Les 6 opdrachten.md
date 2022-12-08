@@ -1,5 +1,5 @@
 ## Files opzetten
-1. Maak een map aan genaamd `les 5 Loops en Arrays` Zet in deze map 2 mappen.
+1. Maak een map aan genaamd `les 6 events` Zet in deze map 2 mappen.
  
  * Canvas
  * HTML
