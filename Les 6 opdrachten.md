@@ -31,7 +31,7 @@ Geef de button een event wanneer er op geklikt wordt.
 * Pak in de javascript de button, maak hierbij gebruik van `document.getElementById()`
 * Geef de button een eventListener.
 
-![eventListener.PNG](img/l6events/eventListener.PNG)
+![eventListener.png](img/l6events/eventListener.png)
 
 * Print `Hello world` uit in de console wanneer er op de knop gedrukt wordt.
 
