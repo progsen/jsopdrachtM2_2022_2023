@@ -54,10 +54,10 @@ Met headers[0] pakken we de eerste header in de lijst van de headers. Als we de 
 
 Om alle headers aan te passen gaan we 1 voor 1 door de headers heen en passen deze aan. Dit kunnen we handmatig doen.
 ```js
-Headers[0].innerHTML = arr[0];
-Headers[1].innerHTML = arr[1];
-Headers[2].innerHTML = arr[2];
-Headers[3].innerHTML = arr[3];
+headers[0].innerHTML = arr[0];
+headers[1].innerHTML = arr[1];
+headers[2].innerHTML = arr[2];
+headers[3].innerHTML = arr[3];
 ```
 
 Maar als we tientallen headers hebben wordt het een klein probleem. Als we honderden headers hebben wordt het een groot probleem. Daarom gaan we het door de arrays heen lopen automatiseren. Er zijn meerdere loops die we kunnen gebruiken, maar wij gaan een for loop gebruiken.
