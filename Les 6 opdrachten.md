@@ -16,6 +16,7 @@ Ga in de canvas map werken.
 Kijk en volg de videos.
 
 zie teams->general->files->Videos les 6
+
 ![appjs.PNG](img/l6events/videos.PNG)
 
 # Opdracht 2: Meer HTML
