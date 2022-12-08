@@ -15,6 +15,8 @@ In beide `app.js` zet je het volgende:
 Ga in de canvas map werken.
 Kijk en volg de videos.
 
+zie teams->general->files->Videos les 6
+
 # Opdracht 2: Meer HTML
 In deze opdracht gaan we een button functionaliteit geven. Wanneer er op de knop wordt gedrukt komt er text op de pagina.
 
