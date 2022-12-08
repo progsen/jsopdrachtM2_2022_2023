@@ -1,5 +1,5 @@
 ## Files opzetten
-1. Maak een map aan genaamd `les 5 Loops en Arrays` Zet in deze map 2 mappen.
+1. Maak een map aan genaamd `les 6 events` Zet in deze map 2 mappen.
  
  * Canvas
  * HTML
@@ -16,6 +16,7 @@ Ga in de canvas map werken.
 Kijk en volg de videos.
 
 zie teams->general->files->Videos les 6
+
 ![appjs.PNG](img/l6events/videos.PNG)
 
 # Opdracht 2: Meer HTML
@@ -30,7 +31,7 @@ Geef de button een event wanneer er op geklikt wordt.
 * Pak in de javascript de button, maak hierbij gebruik van `document.getElementById()`
 * Geef de button een eventListener.
 
-![eventListener.PNG](img/l6events/eventListener.PNG)
+![eventListener.png](img/l6events/eventListener.png)
 
 * Print `Hello world` uit in de console wanneer er op de knop gedrukt wordt.
 
