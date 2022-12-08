@@ -14,6 +14,9 @@ In beide `app.js` zet je het volgende:
 # Opdracht 1: Bewegende Rechthoek
 Ga in de canvas map werken.
 Kijk en volg de videos.
+![video1](https://mediacollegeamsterdam.sharepoint.com/teams/SD-M2PROG/Class%20Materials/Forms/AllItems.aspx?FolderCTID=0x012000DEA35C73A19FCC4CAD1502811CEA81B6&id=%2Fteams%2FSD%2DM2PROG%2FClass%20Materials%2FVideos%20L6%2FM2%20PROG%20Les%206%20video%201%2Emp4&parent=%2Fteams%2FSD%2DM2PROG%2FClass%20Materials%2FVideos%20L6)
+
+![video2]([https://mediacollegeamsterdam.sharepoint.com/teams/SD-M2PROG/Class%20Materials/Forms/AllItems.aspx?FolderCTID=0x012000DEA35C73A19FCC4CAD1502811CEA81B6&id=%2Fteams%2FSD%2DM2PROG%2FClass%20Materials%2FVideos%20L6%2FM2%20PROG%20Les%206%20video%201%2Emp4&parent=%2Fteams%2FSD%2DM2PROG%2FClass%20Materials%2FVideos%20L6](https://mediacollegeamsterdam.sharepoint.com/teams/SD-M2PROG/Class%20Materials/Forms/AllItems.aspx?FolderCTID=0x012000DEA35C73A19FCC4CAD1502811CEA81B6&id=%2Fteams%2FSD%2DM2PROG%2FClass%20Materials%2FVideos%20L6%2FM2%20PROG%20Les%206%20video%202%2Emp4&parent=%2Fteams%2FSD%2DM2PROG%2FClass%20Materials%2FVideos%20L6))
 
 # Opdracht 2: Meer HTML
 In deze opdracht gaan we een button functionaliteit geven. Wanneer er op de knop wordt gedrukt komt er text op de pagina.
