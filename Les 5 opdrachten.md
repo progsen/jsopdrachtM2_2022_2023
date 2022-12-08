@@ -21,6 +21,7 @@ Zet een stuk of 5 headers in jouw html bestand.
 
 ## Stap 2: Maak een array
 Een array is ook een datatype voor een variabele. Het is een lijst met allemaal waardes. Maak een array met jouw favoriete muziek artiesten. Bijvoorbeeld: 
+
 ![array.png](img/l5/array.png)
 Maak jouw eigen array met favoriete artiesten.
 
