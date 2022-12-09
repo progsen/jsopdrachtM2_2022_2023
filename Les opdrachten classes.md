@@ -54,16 +54,47 @@ We gaan nu iets gaan doen met de `vleeseter`
 1. maak een `Plant` class:
 * geef deze een eigenschap `naam` die als `argument` in de constructor`()` staat
 
-2. geef de `Dino` class een nieuw eigenschap:
+2. geef de `Dino` class nieuwe eigenschappen:
 * `leeft` een bool
 * deze zet je altijd op `true`.
 * hij gaat komt niet als `argument` in de constructor`()`
 
+* `honger` een bool
+* deze zet je altijd op `true`.
+* hij gaat komt niet als `argument` in de constructor`()`
+
+3. geef de `Dino` class een nieuwe `function`:
+* eetDino, 1 argument een dino
+* eetDino zet `leeft` op de dino die wordt gegeten op `false`
+
+![](img/class/eten.PNG)
+* eetDino gebruikt `console.log` om te schrijven:
+
+![](img/class/eetdino.PNG)
+
+4. geef de `Dino` class nog een nieuwe `function`:
+* eetPlant, 1 argument een plant
+* eetPlant gebruikt `console.log` om te schrijven:
+
+![](img/class/eetplant.PNG)
+
+
+## functions gebruiken
+
+1. Maak een plant aan in onze `App` in de `runApplication`
+2. laat eerst de planteter dino de plant eten
+3. laat dan een vleeseter dino de planteter dino eten:
+
+
+![](img/class/result.PNG)
 
 
 ## Extra:
 
-Zoek uit wat `conditional breakpoints` zijn. Gebruik deze nu om de loop te stoppen als je bij `index 5` komt
+1. geef je `App` class een constructor
+2. Zorg nu dat je dino's en je plant eigenschappen van `App` worden
+* je mag ook `arrays` gebruiken!
+3. in `runApplication` laat je de dino's weer eten, je moet wat dingen veranderen (`this`) 
 
 ## klaar?
 
