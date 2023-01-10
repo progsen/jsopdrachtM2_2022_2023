@@ -13,11 +13,11 @@ In beide `app.js` zet je het volgende:
 
 # Opdracht 1: Headers veranderen
 
-Voor deze opdracht gaan we in de HTML folder werken.
+Voor deze opdracht gaan we in de `HTML folder` werken.
 In deze opdracht gaan we enkele headers van tekst veranderen.We gaan voornamelijk werken in het app.js bestand, in de runApplication functie.
 
 ## Stap 1: Zet headers (h1) in de html
-Zet een stuk of 5 headers in jouw html bestand.
+Zet een stuk of 5 headers in jouw html bestand die in je `HTML folder` staat.
 
 ## Stap 2: Maak een array
 Een array is ook een datatype voor een variabele. Het is een lijst met allemaal waardes. Maak een array met jouw favoriete muziek artiesten. Bijvoorbeeld: 

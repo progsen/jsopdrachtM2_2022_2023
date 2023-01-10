@@ -57,11 +57,11 @@ We gaan nu iets gaan doen met de `vleeseter`
 2. geef de `Dino` class nieuwe eigenschappen:
 * `leeft` een bool
 * deze zet je altijd op `true`.
-* hij gaat komt niet als `argument` in de constructor`()`
+* hij komt niet als `argument` in de constructor`()`
 
 * `honger` een bool
 * deze zet je altijd op `true`.
-* hij gaat komt niet als `argument` in de constructor`()`
+* hij komt niet als `argument` in de constructor`()`
 
 3. geef de `Dino` class een nieuwe `function`:
 * eetDino, 1 argument een dino
