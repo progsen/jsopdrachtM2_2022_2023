@@ -44,6 +44,9 @@ Uit de vorige les!
 7. maak een screenshot van de deze scope. 
 8. bewaar deze met filename `callstack2.png`
 
+## extra
+
+1.  probeer nu tijdens het programma het geheugen aan te passen als je op een breakpoint staat
 
 ## klaar?
 
