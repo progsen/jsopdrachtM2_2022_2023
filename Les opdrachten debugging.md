@@ -11,7 +11,7 @@ Uit de vorige les!
 ## code ophalen
 
 1. download deze files:
-![](https://github.com/progsen/jsopdrachtM2/tree/main/debugging)
+https://github.com/progsen/jsopdrachtM2/tree/main/debugging
 2. zet deze in je debugging folder
 
 ## breakpoints zetten
